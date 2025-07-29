@@ -2,7 +2,7 @@
 
 🎓 Quant-obsessed Gen Z teen | 📊 Aspiring NUS finance student  
 🧠 Building trading bots before I could legally trade  
-🎯 Founder of [**Quanteen**](https://github.com/dhairyashah123/quanteen) — a chaotic Gen Z quant finance blog
+🎯 Founder of [**Quanteen**](https://github.com/dhairyashah26/quanteen) — a chaotic Gen Z quant finance blog
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 📂 Featured Repo
 
-👉 [Quanteen: My Quant Finance Playground](https://github.com/dhairyashah123/quanteen)
+👉 Quanteen: https://github.com/dhairyashah26/quanteen)
 
 Contains:
 - Trading strategies
