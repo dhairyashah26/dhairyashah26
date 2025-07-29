@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey there, I’m Dhairya Shah
 
-<!--
-**dhairyashah26/dhairyashah26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Quant-obsessed Gen Z teen | 📊 Aspiring NUS finance student  
+🧠 Building trading bots before I could legally trade  
+🎯 Founder of [**Quanteen**](https://github.com/dhairyashah123/quanteen) — a chaotic Gen Z quant finance blog
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Doing
+
+- Studying Math, Economics, and Computer Science
+- Building my GitHub repo with real quant strategies
+- Writing funny-but-smart finance blogs to make quants lovable
+- Applying to NUS (watch out, Singapore)
+
+---
+
+## 📂 Featured Repo
+
+👉 [Quanteen: My Quant Finance Playground](https://github.com/dhairyashah123/quanteen)
+
+Contains:
+- Trading strategies
+- Blog posts
+- Project breakdowns
+- A little chaos
+
+---
+
+## 💬 Let’s Connect
+
+I’m always down to discuss markets, memes, momentum, and maybe machine learning.  
+📧 Contact: dhairyacodes@gmail.com
+
+---
+
+*“Teenagers aren’t supposed to build trading bots. That’s exactly why I am.”*  
+— *Dhairya Shah, Chief Market Annoyer™*
